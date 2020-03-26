@@ -1,0 +1,16 @@
+{
+  "name": "tea_bot",
+  "version": "2.0.0",
+  "description": "A Multiplayer Piano Bot that is also known as 23032020 Bot.",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Multiplayer",
+    "Piano",
+    "Bot"
+  ],
+  "author": "Aedan Cabahug",
+  "license": "SEE LICENSE IN LICENSE"
+}
